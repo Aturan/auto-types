@@ -1,0 +1,6 @@
+{
+  "keepTypes": [
+    "@types/node"
+  ],
+  "ignoreDeps": []
+}

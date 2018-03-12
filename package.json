@@ -1,0 +1,41 @@
+{
+  "name": "check-types",
+  "version": "0.0.1",
+  "description": "Check typescript type definitions for dependencies",
+  "keywords": [
+    "typescript",
+    "check",
+    "types",
+    "cli"
+  ],
+  "bin": "./bin/checkTypes.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "https://github.com/Aturan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aturan/check-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aturan/check-types/issues"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "@types/node-fetch": "1.6.7",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "@types/inquirer": "0.0.37",
+    "@types/ora": "^1.3.2",
+    "chalk": "^2.3.2",
+    "inquirer": "^5.1.0",
+    "node-fetch": "^2.1.1",
+    "ora": "^2.0.0"
+  }
+}
