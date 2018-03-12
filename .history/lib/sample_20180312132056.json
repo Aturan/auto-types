@@ -1,7 +1,0 @@
-{
-  "keepTypes": {
-    "@types/node"
-  },
-  "ignores": [
-  ]
-}
