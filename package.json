@@ -28,11 +28,11 @@
   "devDependencies": {
     "@types/node": "^9.4.6",
     "@types/node-fetch": "1.6.7",
-    "typescript": "^2.7.2"
-  },
-  "dependencies": {
+    "typescript": "^2.7.2",
     "@types/inquirer": "0.0.37",
-    "@types/ora": "^1.3.2",
+    "@types/ora": "^1.3.2"
+  },
+  "dependencies": {  
     "chalk": "^2.3.2",
     "inquirer": "^5.1.0",
     "node-fetch": "^2.1.1",
