@@ -3,3 +3,5 @@ node_modules
 **/*.js
 **/*.js.map
 .history
+yarn-error.log
+package-lock.json
